@@ -1,0 +1,1958 @@
+{
+    "title": null,
+    "description": null,
+    "author": null,
+    "report_url": null,
+    "report_email": null,
+    "source_url": null,
+    "version": 1,
+    "questions": [
+        {
+            "question": "Aby zbudować model fizyczny, wykonujemy kolejno następujące czynności (wybierz te podane w odpowiedniej kolejności):",
+            "answers": [
+                {
+                    "answer": "identyfikujemy problem, sprawdzamy możliwe rozwiązania opisu matematycznego, tworzymy opis matematyczny, porównujemy wyniki obliczeń z danymi eksperymentalnymi",
+                    "correct": false
+                },
+                {
+                    "answer": "identyfikujemy problem, tworzymy opis matematyczny, sprawdzamy możliwe rozwiązania opisu matematycznego, porównujemy wyniki obliczeń z danymi eksperymentalnymi",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 1
+        },
+        {
+            "question": "W wyniku sumowania dwóch wektorów o długości a oraz b różnych od zera, możemy otrzymać wektor wypadkowy (zaznacz wszystkie poprawne)",
+            "answers": [
+                {
+                    "answer": "krótszy od wektora a",
+                    "correct": true
+                },
+                {
+                    "answer": "krótszy od wektora b",
+                    "correct": true
+                },
+                {
+                    "answer": "takiej samej długości jka b, ale inaczej skierowany",
+                    "correct": true
+                },
+                {
+                    "answer": "dłuższy od sumy długości obu wektorów",
+                    "correct": false
+                },
+                {
+                    "answer": "dłuższy od wektora b",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 2
+        },
+        {
+            "question": "zaznacz wszystkie poprawne stwierdzenia.",
+            "answers": [
+                {
+                    "answer": "Opis modelu kinetycznego stosujemy tylko w przypadkach, gdy ciało porusza się po powierzchni płaskiej.",
+                    "correct": false
+                },
+                {
+                    "answer": "Kinematyka pozwala na szacowanie rozmiarów poruszającego się ciała.",
+                    "correct": false
+                },
+                {
+                    "answer": "Kinematyka zajmuje się związkami między położeniem a przyczyną ruchu badanego ciała.",
+                    "correct": false
+                },
+                {
+                    "answer": "W opisie ruchów punktów materialnych możemy stosować zapis wektorowy.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 3
+        },
+        {
+            "question": "zaznacz wszystkie poprawne stwierdzenia.",
+            "answers": [
+                {
+                    "answer": "Wszystkie ciała, niezależnie od kształtu i masy, spadają z takim samym przyspieszeniem na wszystkich planetach w naszym Układzie Słonecznym.",
+                    "correct": false
+                },
+                {
+                    "answer": "Tylko od przyspieszenia grawitacyjnego zależy prędkość spadania przedmiotów.",
+                    "correct": false
+                },
+                {
+                    "answer": "Na Księżycu pióro opada wolniej niż jabłko.",
+                    "correct": false
+                },
+                {
+                    "answer": "Prędkość spadania ciał uzależniona jest od siły oporów ośrodka, w którym opada ciało.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 4
+        },
+        {
+            "question": "Zależność prędkości kątowej ciała od czasu opisuje wzór ω⃗ (t)=32t⋅i+t2j[rads]. Wartość prędkości kątowej w 2 sekundzie wynosi: (W odpowiedzi wpisz liczbę naturalną w jednostkach rad/s)",
+            "answers": [
+                {
+                    "answer": "2",
+                    "correct": false
+                },
+                {
+                    "answer": "5",
+                    "correct": true
+                },
+                {
+                    "answer": "3",
+                    "correct": false
+                },
+                {
+                    "answer": "7",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 5
+        },
+        {
+            "question": "Zależność prędkości kątowej ciała od czasu opisuje wzór ω⃗ (t)=32t⋅i+t2j[rads]. Zależność przyspieszenia kątowego od czasu dla tego ciała ma postać",
+            "answers": [
+                {
+                    "answer": "ε⃗ (t)=3/2i+2j[rad/s^2]",
+                    "correct": false
+                },
+                {
+                    "answer": "ε⃗ (t)=3/2ti+t^2*j[rad/s^2]",
+                    "correct": false
+                },
+                {
+                    "answer": "ε⃗ (t)=3/2i+2tj[rad/s^2]",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 6
+        },
+        {
+            "question": "Położenia ciała w zależności od czasu opisuje równanie x(t)=−t3+10⋅t2+2[m]. Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "Droga przebyta przez to ciało w czasie t=1s wynosi 9m.",
+                    "correct": true
+                },
+                {
+                    "answer": "Droga przebyta przez to ciało w czasie t=1s wynosi 2m.",
+                    "correct": false
+                },
+                {
+                    "answer": "Jest to ruch jednostajnie zmienny.",
+                    "correct": false
+                },
+                {
+                    "answer": "Prędkość tego ciała w t=1s wynosi 17 metrów na sekundę.",
+                    "correct": true
+                },
+                {
+                    "answer": "Prędkość tego ciała opisuje funkcja kwadratowa.",
+                    "correct": true
+                },
+                {
+                    "answer": "Przyspieszenie tego ciała nie zależy od czasu.",
+                    "correct": false
+                },
+                {
+                    "answer": "Przyspieszenie tego ciała w t=1s wynosi 14m/s^2",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 7
+        },
+        {
+            "question": "Przyspieszenie ciała zmienia się w czasie według zależności a(t)=4t (w SI). W czasie t=0 prędkość wynosiła 2m/s. Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "Jest to ruch jednostajnie zmienny.",
+                    "correct": false
+                },
+                {
+                    "answer": "Prędkość ciała zmienia się w czasie według zależności v(t)=2t^2+2[m/s].",
+                    "correct": true
+                },
+                {
+                    "answer": "Prędkość ciała zmienia się w czasie według zależności v(t)=2t^2[m/s].",
+                    "correct": false
+                },
+                {
+                    "answer": "Prędkość tego ciała jest stała i wynosi 2m/s.",
+                    "correct": false
+                },
+                {
+                    "answer": "Przyspieszenie tego ciała w t=2s wynosi 8m/s^2.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 8
+        },
+        {
+            "question": "W rzucie ukośnym",
+            "answers": [
+                {
+                    "answer": "trajektorię lotu ciała przedstawia funkcja liniowa.",
+                    "correct": false
+                },
+                {
+                    "answer": "trajektoria lotu ciała jest taka sama jak trajektoria w ruchu po okręgu.",
+                    "correct": false
+                },
+                {
+                    "answer": "zasięg rzutu nie zależy od kąta nachylenia wektora prędkości początkowej.",
+                    "correct": false
+                },
+                {
+                    "answer": "trajektorię lotu ciała przedstawia funkcja kwadratowa.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 9
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe:",
+            "answers": [
+                {
+                    "answer": "Jeżeli położymy blisko dwa magnesy, to zauważymy efekt działania siły kontaktowej pomiędzy dwoma magnesami.",
+                    "correct": false
+                },
+                {
+                    "answer": "Jeżeli ciało zaczyna się już ślizgać po powierzchni, to wartość siły tarcia rośnie.",
+                    "correct": false
+                },
+                {
+                    "answer": "Przykładem siły kontaktowej jest siła nacisku.",
+                    "correct": true
+                },
+                {
+                    "answer": "Jeżeli ciało się nie porusza, to siła tarcia statycznego oraz składowa siły, starającej się poruszyć ciało, równoległa do powierzchni styku, się równoważą.",
+                    "correct": true
+                },
+                {
+                    "answer": "Siły kontaktowe występują, gdy dwa ciała są dociskane do siebie.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 10
+        },
+        {
+            "question": "Uzupełnij zdania brakującymi słowami:",
+            "answers": [
+                {
+                    "answer": "Nazwa siła styczna i normalna (w ruchu krzywoliniowym) nie odnoszą się do rodzaju oddziaływań między ciałami tak ja siła sprężysta, tarcia, grawitacji, lecz to skutku działania siły.",
+                    "correct": true
+                },
+                {
+                    "answer": "Siła styczna do toru nadaje ciału przyspieszenie ________, czyli wpływa na zmianę _______.",
+                    "correct": true
+                },
+                {
+                    "answer": "Siła normalna do toru nadaje ciału przyspieszenie _______, zatem wpływa na zmianę _______.",
+                    "correct": true
+                },
+                {
+                    "answer": "normalne, kierunku ruchu, styczne, wartości prędkości ciała",
+                    "correct": false
+                },
+                {
+                    "answer": "styczne, wartości prędkości ciała, normalne, kierunku ruchu",
+                    "correct": true
+                },
+                {
+                    "answer": "styczne, kierunku ruchu, normalne, wartości prędkości ciała",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 11
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe:",
+            "answers": [
+                {
+                    "answer": "Ponieważ siła oporu rośnie wraz z prędkością ciała, to w przypadku, gdy ciało spada w płynie po pewnym czasie zaczyna się ono poruszać ruchem jednostajnym.",
+                    "correct": true
+                },
+                {
+                    "answer": "Podczas spadku swobodnego w płynie występuje prędkość graniczna, która jest taka sama dla wszystkich obiektów spadających w atmosferze.",
+                    "correct": false
+                },
+                {
+                    "answer": "Prędkość graniczna dla tego samego ciała opadającego raz w wodzie Vg1, a drugim razem w powietrzu Vg2 spełnia równanie Vg1=2Vg2.",
+                    "correct": false
+                },
+                {
+                    "answer": "Siły oporu dla ciał poruszających się z dużymi prędkościami są zależne od prędkości, a zależność tą opisuje funkcja Fop=−β⋅v^2.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 12
+        },
+        {
+            "question": "W ruchu po okręgu przyspieszenie styczne. Wybierz jedną odpowiedź:",
+            "answers": [
+                {
+                    "answer": "jest skierowane ku środkowi okręgu.",
+                    "correct": false
+                },
+                {
+                    "answer": "jest styczne do toru ruchu.",
+                    "correct": true
+                },
+                {
+                    "answer": "określa zależność a_s=v^2/R, gdzie R jest promieniem okręgu.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 13
+        },
+        {
+            "question": "Różniczkowe równanie ruchu dv/dt=F(v)/m stosujemy, w przypadku gdy działająca siła zależna jest tylko od",
+            "answers": [
+                {
+                    "answer": "siły",
+                    "correct": false
+                },
+                {
+                    "answer": "prędkości",
+                    "correct": true
+                },
+                {
+                    "answer": "czasu",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 14
+        },
+        {
+            "question": "Uzupełnij luki: Jeżeli na ciało oprócz sił zachowawczych ________ działają siły niezachowawcze ________, to powodują one ________ całkowitej energii mechanicznej ciała.",
+            "answers": [
+                {
+                    "answer": "siła sprężysta, siła oporu, zmniejszenie",
+                    "correct": false
+                },
+                {
+                    "answer": "siła grawitacji, siła tarcia, zmniejszenie",
+                    "correct": true
+                },
+                {
+                    "answer": "siła sprężysta, siła tarcia, zwiększenie",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 15
+        },
+        {
+            "question": "Dla stałej siły, gdy kąt między przesunięciem a kierunkiem działania siły wynosi ________ stopni, to praca ________, natomiast gdy kąt jest większy od 90∘, to praca ________.",
+            "answers": [
+                {
+                    "answer": "180, zeruje się, ma wartość ujemną",
+                    "correct": false
+                },
+                {
+                    "answer": "90, jest maksymalna, ma wartość dodatnią",
+                    "correct": false
+                },
+                {
+                    "answer": "90, zeruje się, ma wartość ujemną",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 16
+        },
+        {
+            "question": "Fala poprzeczna rozchodząca się wzdłuż struny opisana jest równaniem u(x,y,t)=0,1 sin (200πt−20πx) (w SI). Kierunek propagacji tej fali jest ________ .",
+            "answers": [
+                {
+                    "answer": "zgodny z kierunkiem osi OX",
+                    "correct": true
+                },
+                {
+                    "answer": "prostopadły do osi OX",
+                    "correct": false
+                },
+                {
+                    "answer": "przecina się z osią OX",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 17
+        },
+        {
+            "question": "W wyniku pochłaniania fali elektromagnetycznej w jakimkolwiek ciele fala elektromagnetyczna przekazuje temu ciału ________, tj. wywiera nań ________.",
+            "answers": [
+                {
+                    "answer": "pęd, ciśnienie",
+                    "correct": true
+                },
+                {
+                    "answer": "prędkość, siłę",
+                    "correct": false
+                },
+                {
+                    "answer": "pęd, siłę",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 18
+        },
+        {
+            "question": "Wskaż zdania prawdziwe:",
+            "answers": [
+                {
+                    "answer": "Fale sejsmiczne powierzchniowe rozchodzą się na granicy dwóch ośrodków",
+                    "correct": true
+                },
+                {
+                    "answer": "Fale sejsmiczne powierzchniowe składają się z 4 rodzajów drgań.",
+                    "correct": false
+                },
+                {
+                    "answer": "Fala sejsmiczna typu S jest falą podłużną.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 19
+        },
+        {
+            "question": "Prędkość fazowa to",
+            "answers": [
+                {
+                    "answer": "jest to prędkość, z jaką przemieszcza się w ośrodku powierzchnia stałej fazy (np. garby lub doliny fali biegnącej w sznurku) drgań cząsteczek ośrodka.",
+                    "correct": true
+                },
+                {
+                    "answer": "jest to prędkość pakietu (grupy, paczki) fal.",
+                    "correct": false
+                },
+                {
+                    "answer": "prędkość ruchu cząsteczek (punktów) ośrodka sprężystego wokół ustalonych położeń równowagi; źródłem tego ruchu jest rozchodząca się fala.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 20
+        },
+        {
+            "question": "Zaznacz pytania, na które odp brzmi \"tak\". Czy fala uderzeniowa:",
+            "answers": [
+                {
+                    "answer": "może spowodować przesunięcia atomów, zmiany poziomów energetycznych elektronów i zmienić bilans energii wewnętrznej?",
+                    "correct": true
+                },
+                {
+                    "answer": "powoduje gwałtowny wzrost gęstości ośrodka?",
+                    "correct": true
+                },
+                {
+                    "answer": "przechodząc przez ciało stałe zwiększa gęstość ciała w kierunku swojego ruchu?",
+                    "correct": true
+                },
+                {
+                    "answer": "powstaje gdy prędkość źródła dźwięku jest równa lub większa od prędkości dźwięku?",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 21
+        },
+        {
+            "question": "Wskaż wszystkie prawdziwe zdania.",
+            "answers": [
+                {
+                    "answer": "Podczas propagacji fali podłużnej w stalowym pręcie rozmiar liniowy fragmentu ośrodka jest znacznie mniejszy od długości fali.",
+                    "correct": true
+                },
+                {
+                    "answer": "Podczas propagacji fali podłużnej w stalowym pręcie na małym odcinku pręta wszystkie jego elementy mają te same wartości wychyleń, prędkości, przyspieszeń.",
+                    "correct": true
+                },
+                {
+                    "answer": "Podczas propagacji fali podłużnej w stalowym pręcie chwilowa wartość energii zależy od czasu i od miejsca w pręcie.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 22
+        },
+        {
+            "question": "Fala padając na granice ośrodków częściowo przechodzi do drugiego, a częściowo odbija się od ich granicy. To jaka część tej fali odbije się od granicy dwóch ośrodków, zależy od",
+            "answers": [
+                {
+                    "answer": "od kąta padania fali, prędkości fazowych c1 i c2 fali w dwóch ośrodkach oraz od gęstości tych ośrodków.",
+                    "correct": true
+                },
+                {
+                    "answer": "tylko od prędkości fazowych c1 i c2 fali w dwóch ośrodkach.",
+                    "correct": false
+                },
+                {
+                    "answer": "między innymi od kąta padania fali.",
+                    "correct": true
+                },
+                {
+                    "answer": "tylko od kąta padania fali.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 23
+        },
+        {
+            "question": "Wskaż zdania prawdziwe.",
+            "answers": [
+                {
+                    "answer": "Gęstość energii pola elektromagnetycznego zależy tylko od gęstości energii pola elektrycznego.",
+                    "correct": false
+                },
+                {
+                    "answer": "Gęstość energii pola elektromagnetycznego zależy od gęstości energii pola elektrycznego oraz magnetycznego.",
+                    "correct": true
+                },
+                {
+                    "answer": "Całkowita gęstość energii pola elektromagnetycznego jest sumą gęstości energii pola elektrycznego i gęstości pola magnetycznego.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 24
+        },
+        {
+            "question": "Prędkość grupowa (wybierz jedną odpowiedź):",
+            "answers": [
+                {
+                    "answer": "jest to prędkość, z jaką przemieszcza się w ośrodku powierzchnia stałej fazy (np. garby lub doliny fali biegnącej w sznurku) drgań cząsteczek ośrodka.",
+                    "correct": false
+                },
+                {
+                    "answer": "to prędkość ruchu cząsteczek (punktów) ośrodka sprężystego wokół ustalonych położeń równowagi; źródłem tego ruchu jest rozchodząca się fala.",
+                    "correct": false
+                },
+                {
+                    "answer": "jest to prędkość pakietu (grupy, paczki) fal.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 25
+        },
+        {
+            "question": "Obserwator porusza się względem nieruchomego źródła dźwięku o częstotliwości f z prędkością v. Jeżeli obserwator zbliża się do źródła dźwięku słyszy dźwięk o częstotliwości f1, jeżeli oddala się to słyszy dźwięk o częstotliwości f2. Między częstotliwościami zachodzi związek (wybierz jedną odpowiedź):",
+            "answers": [
+                {
+                    "answer": "f1 – f < f - f2",
+                    "correct": false
+                },
+                {
+                    "answer": "f1 – f > f - f2",
+                    "correct": false
+                },
+                {
+                    "answer": "f1 – f = f - f2",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 26
+        },
+        {
+            "question": "Obwód prądu zmiennego składający się z połączonych ze sobą szeregowo opornika R=16Ω oraz cewki o indukcyjności L=12H zasilany jest sinusoidalnie zmiennym prądem. Jeżeli wartość napięcia skutecznego wynosi 50V, a częstotliwość f=1/2π Hz, to moduł impedancji obwodu oraz prąd są równe:",
+            "answers": [
+                {
+                    "answer": "Z=10Ω, I=2.5A",
+                    "correct": false
+                },
+                {
+                    "answer": "Z=2Ω, I=4A",
+                    "correct": false
+                },
+                {
+                    "answer": "Z=20Ω, I=2.5A",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 27
+        },
+        {
+            "question": "W obwodzie z elementami L oraz C obserwujemy ______ pola ______ w kondensatorze i pola ______ w cewce. Mówimy, że w obwodzie LC  obserwujemy drgania elektromagnetyczne, a sam  obwód LC nazywamy obwodem ______.",
+            "answers": [
+                {
+                    "answer": "oscylacje, elektrycznego, magnetycznego, drgającym",
+                    "correct": true
+                },
+                {
+                    "answer": "zwarcia, elektrycznego, magnetycznego, drgającym",
+                    "correct": false
+                },
+                {
+                    "answer": "oscylacje, magnetycznego, elektrycznego, stałym",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 28
+        },
+        {
+            "question": "Impedancję układu wyraża wzór",
+            "answers": [
+                {
+                    "answer": "R+jX",
+                    "correct": true
+                },
+                {
+                    "answer": "Z+jX",
+                    "correct": false
+                },
+                {
+                    "answer": "R+jI",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 29
+        },
+        {
+            "question": "Rezonans ______ (______) występuje, gdy między sinusoidalnymi przebiegami prądu i napięcia nie ma przesunięcia fazowego.",
+            "answers": [
+                {
+                    "answer": "fazowy, napięć",
+                    "correct": true
+                },
+                {
+                    "answer": "sinusoidalny, napięć",
+                    "correct": false
+                },
+                {
+                    "answer": "stały, napięć",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 30
+        },
+        {
+            "question": "Aby wystąpił rezonans w układzie szeregowo połączonych elementów R, L, C, impedancja zespolona musi być równa",
+            "answers": [
+                {
+                    "answer": "rezystancji",
+                    "correct": true
+                },
+                {
+                    "answer": "indukcji",
+                    "correct": false
+                },
+                {
+                    "answer": "pojemności",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 31
+        },
+        {
+            "question": "Zaznacz odpowiedni symbol i jednostkę dla mocy sygnałów sinusoidalnych.",
+            "answers": [
+                {
+                    "answer": "Moc czynna [P], jednostka to [W]. Moc bierna [Q], jednostka to [War]. Moc pozorna [S], jednostka to [VA].",
+                    "correct": true
+                },
+                {
+                    "answer": "Moc czynna [Q], jednostka to [War]. Moc bierna [P], jednostka to [W]. Moc pozorna [S], jednostka to [VA].",
+                    "correct": false
+                },
+                {
+                    "answer": "Moc czynna [S], jednostka to [War]. Moc bierna [Q], jednostka to [VA]. Moc pozorna [P], jednostka to [W].",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 32
+        },
+        {
+            "question": "Interpretacja fizyczna wartości skutecznej prądu przemiennego mówi o tym, że wartość skuteczna prądu przemiennego jest równa takiej wartości prądu ______, która powoduje wydzielenie się na odbiorniku takiej samej ______ w takim samym czasie.",
+            "answers": [
+                {
+                    "answer": "stałego, energii",
+                    "correct": true
+                },
+                {
+                    "answer": "przemiennego, rezystancji",
+                    "correct": false
+                },
+                {
+                    "answer": "przemiennego, energii",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 33
+        },
+        {
+            "question": "Wzór  .....  = 2π f L   opisuje",
+            "answers": [
+                {
+                    "answer": "częstotliwość rezonansową",
+                    "correct": false
+                },
+                {
+                    "answer": "reaktancję indukcyjną XL",
+                    "correct": true
+                },
+                {
+                    "answer": "reaktancję pojemnościową XC",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 34
+        },
+        {
+            "question": "W soczewkach grubych",
+            "answers": [
+                {
+                    "answer": "kolejności płaszczyzn głównych H, H’ może być dowolna.",
+                    "correct": true
+                },
+                {
+                    "answer": "nie działa prawo załamania światła.",
+                    "correct": false
+                },
+                {
+                    "answer": "fizyczne położenie płaszczyzn głównych może być wewnątrz jednego z elementów systemu formowania obrazu - ale nie musi (mogą być na zewnątrz).",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 35
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Płytka płasko-równoległa",
+            "answers": [
+                {
+                    "answer": "zmienia kierunek biegu wiązki światła i wprowadza przesunięcie równoległe promieni.",
+                    "correct": false
+                },
+                {
+                    "answer": "nie zmienia kierunku biegu wiązki światła i nie wprowadza przesunięcia równoległego promieni.",
+                    "correct": false
+                },
+                {
+                    "answer": "nie zmienia kierunku biegu wiązki światła, ale wprowadza przesunięcie równoległe promieni.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 36
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Powiększenie poprzeczne – liniowe to stosunek",
+            "answers": [
+                {
+                    "answer": "wielkości przedmiotu do wielkości obrazu.",
+                    "correct": false
+                },
+                {
+                    "answer": "przestrzeni obrazowej do przestrzeni przedmiotowej.",
+                    "correct": false
+                },
+                {
+                    "answer": "wielkości obrazu do wielkości przedmiotu.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 37
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Soczewka",
+            "answers": [
+                {
+                    "answer": "gruba skupiająca może mieć budowę typu wklęsło - wklęsła.",
+                    "correct": false
+                },
+                {
+                    "answer": "ma zawsze dwa ogniska.",
+                    "correct": true
+                },
+                {
+                    "answer": "rozpraszająca działa tak, że promień świetlny po przejściu przez nią zmienia kierunek na dowolny.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 38
+        },
+        {
+            "question": "Co to jest dioptria? Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "Jednostka mocy soczewki.",
+                    "correct": true
+                },
+                {
+                    "answer": "Odwrotność ogniskowej soczewki wyrażonej w metrach.",
+                    "correct": true
+                },
+                {
+                    "answer": "Siła skupiająca soczewki.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 39
+        },
+        {
+            "question": "Szczególnym rodzajem pryzmatu jest klin - kąt łamiący jest mały.",
+            "answers": [
+                {
+                    "answer": "Prawda.",
+                    "correct": true
+                },
+                {
+                    "answer": "Fałsz.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 40
+        },
+        {
+            "question": "Soczewka asferyczna ma jedną powierzchnię sferyczną a drugą płaską.",
+            "answers": [
+                {
+                    "answer": "Prawda.",
+                    "correct": false
+                },
+                {
+                    "answer": "Fałsz.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 41
+        },
+        {
+            "question": "Obrazy w zwierciadle kulistym wklęsłym mogą być",
+            "answers": [
+                {
+                    "answer": "tylko rzeczywiste i proste",
+                    "correct": false
+                },
+                {
+                    "answer": "wyłącznie lub powiększone lub pomniejszone",
+                    "correct": false
+                },
+                {
+                    "answer": "rzeczywiste i pozorne proste i odwrócone oraz powiększone i pomniejszone",
+                    "correct": true
+                },
+                {
+                    "answer": "tylko pozorne i odwrócone",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 42
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Promień przyosiowy to taki, który",
+            "answers": [
+                {
+                    "answer": "biegnie prostopadle do osi optycznej.",
+                    "correct": false
+                },
+                {
+                    "answer": "tworzy niewielkie kąty z osią optyczną systemu optycznego.",
+                    "correct": true
+                },
+                {
+                    "answer": "biegnie blisko osi optycznej w porównaniu do wielkości elementów układu optycznego.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 43
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Camera obscura",
+            "answers": [
+                {
+                    "answer": "to ciemny pokój, w którym zamykano fotografów.",
+                    "correct": false
+                },
+                {
+                    "answer": "składa się z zamkniętej skrzyni, obitej wewnątrz czarnym materiałem w celu zredukowania odbić wpadającej wiązki światła.",
+                    "correct": true
+                },
+                {
+                    "answer": "może mieć matową szybkę, na której powstaje obrócony obraz.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 44
+        },
+        {
+            "question": "Luneta astronomiczna daje obraz prosty.",
+            "answers": [
+                {
+                    "answer": "Prawda.",
+                    "correct": false
+                },
+                {
+                    "answer": "Fałsz.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 45
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Rolę przysłon w układach optycznych mogą spełniać",
+            "answers": [
+                {
+                    "answer": "oprawy części optycznych.",
+                    "correct": true
+                },
+                {
+                    "answer": "specjalne zasłony przykrywające przyrząd.",
+                    "correct": false
+                },
+                {
+                    "answer": "specjalne ekrany z otworami.",
+                    "correct": true
+                },
+                {
+                    "answer": "źrenica oka, jeśli układ współpracuje z okiem.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 46
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: W typowym mikroskopie",
+            "answers": [
+                {
+                    "answer": "elektronowym wykorzystuje się do obrazowania wiązkę elektronów.",
+                    "correct": true
+                },
+                {
+                    "answer": "optycznym maksymalne powiększenia są nie większe niż 2000.",
+                    "correct": true
+                },
+                {
+                    "answer": "sił atomowych wykorzystuje się do obrazowania wiązkę atomów.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 47
+        },
+        {
+            "question": "Zaznacz zdania prawdziwe: Aberracje chromatyczne",
+            "answers": [
+                {
+                    "answer": "przyczyną ich powstawania jest dyspersja światła w soczewkach układu optycznego.",
+                    "correct": true
+                },
+                {
+                    "answer": "to wady powstające na skutek użycia światła niemonochromatycznego (np. białego).",
+                    "correct": true
+                },
+                {
+                    "answer": "to wady powstające na skutek użycia światła monochromatycznego (np. czerwonego).",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 48
+        },
+        {
+            "question": "W metodzie Seidla przybliżonego wyznaczania aberracji wyróżniamy następujące aberracje: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "dystorsja",
+                    "correct": true
+                },
+                {
+                    "answer": "krzywizna soczewkowa",
+                    "correct": false
+                },
+                {
+                    "answer": "astygmatyzm",
+                    "correct": true
+                },
+                {
+                    "answer": "aberracja sferyczna",
+                    "correct": true
+                },
+                {
+                    "answer": "treofoil",
+                    "correct": false
+                },
+                {
+                    "answer": "koma",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 49
+        },
+        {
+            "question": "Aberrację sferyczną można skorygować",
+            "answers": [
+                {
+                    "answer": "stosując soczewkę asferyczną.",
+                    "correct": true
+                },
+                {
+                    "answer": "montując dodatkową przysłonę.",
+                    "correct": false
+                },
+                {
+                    "answer": "stosując soczewkę astygmatyczną.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 50
+        },
+        {
+            "question": "Aberracje: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "to wady odwzorowania przez układy optyczne.",
+                    "correct": true
+                },
+                {
+                    "answer": "powstają, gdy używane jest światło niemonochromatyczne.",
+                    "correct": true
+                },
+                {
+                    "answer": "powstają, gdy używane są szerokie wiązki światła.",
+                    "correct": true
+                },
+                {
+                    "answer": "poprawiają jakość obrazów.",
+                    "correct": false
+                },
+                {
+                    "answer": "są największe dla promieni przyosiowych.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 51
+        },
+        {
+            "question": "Wynikiem obliczeń _______ wektora a⃗ =(xyz,2xyz,3xyz) jest _______.",
+            "answers": [
+                {
+                    "answer": "rotacji, wektor (yz, 2xyz, 3xyz)",
+                    "correct": false
+                },
+                {
+                    "answer": "rotacji, liczba yz+2xz+3xy",
+                    "correct": false
+                },
+                {
+                    "answer": "dywergencji, liczba yz+2xz+3xy",
+                    "correct": true
+                },
+                {
+                    "answer": "dywergencji, wektor (yz, 2xyz, 3xyz)",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 52
+        },
+        {
+            "question": "Zaznacz, czy podane stwierdzenie jest prawdziwe, czy fałszywe.",
+            "answers": [
+                {
+                    "answer": "Natężenie pola elektrostatycznego definiujemy jako energię potencjalną pola elektrostatycznego podzieloną przez jednostkowy ładunek.",
+                    "correct": false
+                },
+                {
+                    "answer": "Natężenie pola elektrostatycznego definiujemy jako siłę działającą na ładunek próbny q (umieszczony w danym punkcie przestrzeni) podzieloną przez ten ładunek.",
+                    "correct": true
+                },
+                {
+                    "answer": "Potencjał elektrostatyczny definiujemy jako energię potencjalną pola elektrostatycznego podzieloną przez jednostkowy ładunek.",
+                    "correct": true
+                },
+                {
+                    "answer": "Natężenie pola elektrostatycznego jest wielkością skalarną.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 53
+        },
+        {
+            "question": "Linie pola magnetycznego reprezentowane przez wektor indukcji magnetycznej. Wybierz jedną odpowiedź:",
+            "answers": [
+                {
+                    "answer": "są zawsze liniami zamkniętymi.",
+                    "correct": true
+                },
+                {
+                    "answer": "zaczynają się na północnym biegunie magnesu.",
+                    "correct": false
+                },
+                {
+                    "answer": "są półprostymi.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 54
+        },
+        {
+            "question": "Wskaż prawidłowe stwierdzenia. Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "Prawo Gaussa możemy stosować zawsze i zawsze wyniki mają sens fizyczny.",
+                    "correct": false
+                },
+                {
+                    "answer": "Prawo Gaussa stosujemy do obliczania natężenia pola elektrycznego, gdy znamy rozkład ładunku lub do znajdowania rozkładu ładunku gdy znamy pole.",
+                    "correct": true
+                },
+                {
+                    "answer": "Aby skutecznie skorzystać z prawa Gaussa trzeba coś wiedzieć o polu elektrycznym na wybranej powierzchni Gaussa.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 55
+        },
+        {
+            "question": "Prądy wirowe to prądy. Wybierz jedną odpowiedź:",
+            "answers": [
+                {
+                    "answer": "płynące w cewce indukcyjnej.",
+                    "correct": false
+                },
+                {
+                    "answer": "indukcyjne, powstające w przewodniku elektrycznym na skutek oddziaływania zmiennego pola magnetycznego.",
+                    "correct": true
+                },
+                {
+                    "answer": "płynące przez gruby oporniki.",
+                    "correct": false
+                },
+                {
+                    "answer": "powstające w przewodniku elektrycznym na skutek drgań tego przewodnika.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 56
+        },
+        {
+            "question": "W skład układu równań nazywanym równaniami Maxwella wchodzą następujące prawa: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "prawo Faradaya",
+                    "correct": true
+                },
+                {
+                    "answer": "prawo Lagrange’a",
+                    "correct": false
+                },
+                {
+                    "answer": "prawo ciążenia Newtona",
+                    "correct": false
+                },
+                {
+                    "answer": "prawo Coulomba",
+                    "correct": false
+                },
+                {
+                    "answer": "uogólnione prawo Ampere'a",
+                    "correct": true
+                },
+                {
+                    "answer": "prawo Gaussa dla pola elektrycznego",
+                    "correct": true
+                },
+                {
+                    "answer": "prawo Gaussa dla pola magnetycznego",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 57
+        },
+        {
+            "question": "Zasada superpozycji pól to inaczej mówiąc: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "zakłócanie się sygnałów.",
+                    "correct": false
+                },
+                {
+                    "answer": "suma algebraiczna natężeń pól składowych.",
+                    "correct": false
+                },
+                {
+                    "answer": "suma wektorowa natężeń pól składowych.",
+                    "correct": true
+                },
+                {
+                    "answer": "nakładanie się pól.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 58
+        },
+        {
+            "question": "Wskaż prawdziwe stwierdzenia.",
+            "answers": [
+                {
+                    "answer": "Wartość natężenia pola pochodzącego od konkretnych rozkładów ładunku możemy obliczyć tylko z prawa Coulomba.",
+                    "correct": false
+                },
+                {
+                    "answer": "Wypadkowy ładunek wewnątrz przewodnika jest równy całemu ładunkowi gromadzącemu się na powierzchni przewodnika.",
+                    "correct": false
+                },
+                {
+                    "answer": "Związek pomiędzy natężeniem pola i potencjałem jest wyrażony zależnością E⃗ =▽V  (∇ - gradient).",
+                    "correct": true
+                },
+                {
+                    "answer": "Pole elektrostatyczne jest charakteryzowane przez wektor natężenia pola i potencjał.",
+                    "correct": true
+                },
+                {
+                    "answer": "Pole elektryczne na zewnątrz naładowanej kuli jest takie jakby cały ładunek skupiony był w środku kuli.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 59
+        },
+        {
+            "question": "Wskaż prawdziwe stwierdzenia. Która z podanych wielkości charakteryzuje pole wektorowe?",
+            "answers": [
+                {
+                    "answer": "Amplituda zespolona fali",
+                    "correct": false
+                },
+                {
+                    "answer": "Ciśnienie",
+                    "correct": false
+                },
+                {
+                    "answer": "Temperatura",
+                    "correct": false
+                },
+                {
+                    "answer": "Siła ciężkości",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 60
+        },
+        {
+            "question": "Wskaż prawdziwe stwierdzenia. Zdecyduj czy podane stwierdzenie jest prawdziwe, czy fałszywe.",
+            "answers": [
+                {
+                    "answer": "Pole wewnątrz pustej czaszy kulistej wynosi zero.",
+                    "correct": true
+                },
+                {
+                    "answer": "Według Keplera planety poruszają się po orbitach kołowych.",
+                    "correct": false
+                },
+                {
+                    "answer": "Praca wykonana przez siłę zewnętrzną w polu grawitacyjnym, przy przemieszczaniu ciała, nie zależy od drogi przejścia pomiędzy punktem A i B tylko od odległości tych punktów od obiektu będącego źródłem pola grawitacyjnego.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 61
+        },
+        {
+            "question": "W zależności od tego, jaka jest energia całkowita ciała, poruszającego się w polu grawitacyjnym np. gwiazdy, może ono poruszać się po torach: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "parabolicznych",
+                    "correct": true
+                },
+                {
+                    "answer": "hiperbolicznych",
+                    "correct": true
+                },
+                {
+                    "answer": "kołowych",
+                    "correct": true
+                },
+                {
+                    "answer": "eliptycznych",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 62
+        },
+        {
+            "question": "Punkt Lagrange’a to: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "Każdemu układowi dwóch ciał, np. Ziemia-Księżyc można wyznaczyć 5 punktów Lagrange’a.",
+                    "correct": true
+                },
+                {
+                    "answer": "W układzie Ziemia - Księżyc punkty L4 i L5 są stabilne.",
+                    "correct": true
+                },
+                {
+                    "answer": "Punkt Lagrange’a to punkt, w którym Lagrange opracowywał swoje teorie.",
+                    "correct": false
+                },
+                {
+                    "answer": "W układzie Ziemia - Księżyc punkt L1 jest cenną lokalizacją dla stacji komicznej.",
+                    "correct": true
+                },
+                {
+                    "answer": "Punkt Lagrange’a to miejsce w przestrzeni, w układzie dwóch ciał powiązanych grawitacją, w którym ciało o pomijalnej masie może pozostawać w spoczynku względem ciał układu.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 63
+        },
+        {
+            "question": "Pole nazywamy centralnym, jeżeli",
+            "answers": [
+                {
+                    "answer": "natężenie we wszystkich jego punktach jest jednakowe.",
+                    "correct": false
+                },
+                {
+                    "answer": "we wszystkich jego punktach wektory natężenia skierowane są wzdłuż prostych, przecinających się w jednym punkcie, nieruchomym względem dowolnego układu inercjalnego.",
+                    "correct": true
+                },
+                {
+                    "answer": "we wszystkich jego punktach wektory natężenia skierowane są wzdłuż prostych, przecinających się w jednym punkcie, poruszającym się względem dowolnego układu inercjalnego.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 64
+        },
+        {
+            "question": "Pole nazywamy jednorodnym, jeśli",
+            "answers": [
+                {
+                    "answer": "wektory natężenia leżą na liniach przecinających się w jednym punkcie.",
+                    "correct": false
+                },
+                {
+                    "answer": "liczbowa wartość wektora natężenia pola zależy tylko od odległości od środka sił.",
+                    "correct": false
+                },
+                {
+                    "answer": "natężenie we wszystkich jego punktach jest jednakowe.",
+                    "correct": true
+                },
+                {
+                    "answer": "natężenie we wszystkich jego punktach jest zależne od czasu.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 65
+        },
+        {
+            "question": "Którą prędkość kosmiczną opisuje stwierdzenie: \"......  zwana prędkością ucieczki jest najmniejszą prędkością, z jaką należy wystrzelić rakietę z powierzchni Ziemi, aby uciekła ona z pola grawitacyjnego planety.\"",
+            "answers": [
+                {
+                    "answer": "1",
+                    "correct": false
+                },
+                {
+                    "answer": "2",
+                    "correct": true
+                },
+                {
+                    "answer": "3",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 66
+        },
+        {
+            "question": "Odbicie dyfuzyjne (rozproszone) światła jest to _______ światła zachodzące _______ .",
+            "answers": [
+                {
+                    "answer": "odbicie, we wszystkich możliwych kierunkach",
+                    "correct": true
+                },
+                {
+                    "answer": "rozproszenie, w kierunku przeciwnym do promienia padającego",
+                    "correct": false
+                },
+                {
+                    "answer": "odbicie, we wszystkich mediach nielicząc szkła",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 67
+        },
+        {
+            "question": "Z zasady Fermata wynika prawo:",
+            "answers": [
+                {
+                    "answer": "polaryzacji światła przez odbicie.",
+                    "correct": false
+                },
+                {
+                    "answer": "prostoliniowego rozchodzenia się promieni świetlnych.",
+                    "correct": true
+                },
+                {
+                    "answer": "załamania.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 68
+        },
+        {
+            "question": "Według prawa odbicia i prawa załamania",
+            "answers": [
+                {
+                    "answer": "promienie: padający, odbity i załamany leżą w różnych płaszczyznach.",
+                    "correct": false
+                },
+                {
+                    "answer": "kąt odbicia jest różny od kąta padania.",
+                    "correct": false
+                },
+                {
+                    "answer": "promienie: padający, odbity i załamany leżą w tej samej płaszczyźnie.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 69
+        },
+        {
+            "question": "Całkowite wewnętrzne odbicie",
+            "answers": [
+                {
+                    "answer": "obserwuje się w ośrodku o większym współczynniku załamania.",
+                    "correct": true
+                },
+                {
+                    "answer": "zachodzi na granicy dwóch ośrodków przezroczystych charakteryzującymi się współczynnikami załamania n1 i n2, n1>n2.",
+                    "correct": true
+                },
+                {
+                    "answer": "możemy zaobserwować np. w pryzmatach i światłowodach.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 70
+        },
+        {
+            "question": "Jeżeli szkło charakteryzuje się dużą dyspersją to:",
+            "answers": [
+                {
+                    "answer": "soczewka wykonana z takiego szkła będzie obarczona małą aberracją chromatyczną.",
+                    "correct": false
+                },
+                {
+                    "answer": "znaczy, że liczba Abbego jest duża.",
+                    "correct": false
+                },
+                {
+                    "answer": "znaczy, że liczba Abbego jest mała.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 71
+        },
+        {
+            "question": "Bezwględny współczynnik załamania ośrodka to:",
+            "answers": [
+                {
+                    "answer": "stosunek prędkości fali dźwiękowej v w powietrzu do prędkości fazowej światła u w ośrodku.",
+                    "correct": false
+                },
+                {
+                    "answer": "stosunek częstotliwości fali f1 w ośrodku I do częstotliwości fali f2 w ośrodku II.",
+                    "correct": false
+                },
+                {
+                    "answer": "stosunek prędkości światła c w próżni do prędkości fazowej światła u w ośrodku.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 72
+        },
+        {
+            "question": "Wielkość L=*całka od x1 do x2*nds nazywamy",
+            "answers": [
+                {
+                    "answer": "drogą geometryczną.",
+                    "correct": false
+                },
+                {
+                    "answer": "odległością optyczną.",
+                    "correct": false
+                },
+                {
+                    "answer": "drogą optyczną.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 73
+        },
+        {
+            "question": "Światło padające na ciało może: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "przejść przez to ciało.",
+                    "correct": true
+                },
+                {
+                    "answer": "rozproszyć się.",
+                    "correct": true
+                },
+                {
+                    "answer": "zostać przez nie wchłonięte.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 74
+        },
+        {
+            "question": "Prędkość grupowa światła w ośrodku związana jest z: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "prędkością ciała c.",
+                    "correct": true
+                },
+                {
+                    "answer": "częstotliwością.",
+                    "correct": true
+                },
+                {
+                    "answer": "prędkością kołową fali ω.",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 75
+        },
+        {
+            "question": "Kierunek przepływu prądu elektrycznego oznaczamy jako kierunek, w którym poruszałyby się ______ naładowane nośniki.",
+            "answers": [
+                {
+                    "answer": "ujemnie",
+                    "correct": false
+                },
+                {
+                    "answer": "dodatnio",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 76
+        },
+        {
+            "question": "Do przewodników zależność przewodnictwa od temperatury opisuje funkcja ________, a dla półprzewodników jest to funckja ________.",
+            "answers": [
+                {
+                    "answer": "stała, rosnąca",
+                    "correct": false
+                },
+                {
+                    "answer": "malejąca, stała",
+                    "correct": false
+                },
+                {
+                    "answer": "malejąca, rosnąca",
+                    "correct": true
+                },
+                {
+                    "answer": "rosnąca, malejąca",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 77
+        },
+        {
+            "question": "Każde rzeczywiste źródło napięcia _______ opór wewnętrzny.",
+            "answers": [
+                {
+                    "answer": "posiada",
+                    "correct": true
+                },
+                {
+                    "answer": "nie posiada",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 78
+        },
+        {
+            "question": "Ładowanie kondensatora odbywa się w układzie szeregowo podłączonego rezystora i kondensatora. 1. Zwiększenie wartości rezystora w tym układzie spowoduje ________ czasu ładowania. 2. W trakcie ładowania kondensatora prąd w układzie ________.",
+            "answers": [
+                {
+                    "answer": "wydłużenie, maleje",
+                    "correct": true
+                },
+                {
+                    "answer": "wydłużenie, rośnie",
+                    "correct": false
+                },
+                {
+                    "answer": "skrócenie, rośnie",
+                    "correct": false
+                },
+                {
+                    "answer": "skrócenie, maleje",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 79
+        },
+        {
+            "question": "Kondensator w defibrylatorze medycznym o pojemności 70uF jest naładowany do 5000V. 1. Jaka energia zmagazynowana jest w kondensatorze? 2. Około 200J tej energii jest przekazywane człowiekowi podczas 2ms impulsu. Jaka jest moc impulsu?",
+            "answers": [
+                {
+                    "answer": "875J, 100kW",
+                    "correct": true
+                },
+                {
+                    "answer": "875J, 875kW",
+                    "correct": false
+                },
+                {
+                    "answer": "100J, 875kW",
+                    "correct": false
+                },
+                {
+                    "answer": "100J, 100kW",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 80
+        },
+        {
+            "question": "Wskaż prawo Ohma",
+            "answers": [
+                {
+                    "answer": "E=pj, gdzie j-gęstość prądu, p-opór właściwy, E-natężenie pola elektrycznego.",
+                    "correct": true
+                },
+                {
+                    "answer": "j=aE, gdzie j-gęstość prądu, a-przewodność elektryczna właściwa, E-natężenie pola elektrycznego.",
+                    "correct": true
+                },
+                {
+                    "answer": "I=GR, gdzie I-natężenie prądu, G-konduktancja/przewodniczość, R-rezystancja.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 81
+        },
+        {
+            "question": "Co można powiedzieć o zmianie mocy wydzielanej w przewodniku z prądem, gdy napięcie między końcami tego przewodnika wzrośnie 2 razy?",
+            "answers": [
+                {
+                    "answer": "Moc wydzielona również wzrośnie 2 razy, bo P=UI.",
+                    "correct": false
+                },
+                {
+                    "answer": "Moc nie ulegnie zmianie, bo jest ona cehcą charakterystyczną odbiornika.",
+                    "correct": false
+                },
+                {
+                    "answer": "Moc wzrośnie 4 razy, bo zależność mocy od napięcia między końcami danego przewodnika jest następująca P=U^2/R.",
+                    "correct": true
+                },
+                {
+                    "answer": "Moc wcale nie ulegnie zmianie, bo P=I^2R, tzn. moc wydzielona nie zależy od napięcia.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 82
+        },
+        {
+            "question": "Jeżeli do węzła układu elektrycznego wpływają 3 prądy o natężeniu 20mA każdy, to wartości dwóch wpływających prądów mogą być równe: Wybierz wszystkie poprawne:",
+            "answers": [
+                {
+                    "answer": "l4=30mA, l5=30mA",
+                    "correct": true
+                },
+                {
+                    "answer": "l4=20mA, l5=20mA",
+                    "correct": false
+                },
+                {
+                    "answer": "l4=20mA, l5=40mA",
+                    "correct": true
+                },
+                {
+                    "answer": "l4=50mA, l5=10mA",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 83
+        },
+        {
+            "question": "Grzejnik elektryczny pryz napięciu 110V ma moc 250W. Gdy podłączymy go do napięcia 220V to jego moc wynosi (zakładamy, że opór nie zależy od temperatury, wynik wpisz jako l. całkowitą)",
+            "answers": [
+                {
+                    "answer": "1000W",
+                    "correct": true
+                },
+                {
+                    "answer": "500W",
+                    "correct": false
+                },
+                {
+                    "answer": "600W",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 84
+        },
+        {
+            "question": "Składamy 2 ruchy harmoniczne o jednakowych częstotliwościach i amplitudach A. Jedno odbywa się wzdłuż osi x, a drugie wzdłuż osi y. Oba ruchy mają zgodną fazę. W wyniku złożenia otrzymujemy ruch",
+            "answers": [
+                {
+                    "answer": "liniowy opisany funkcją rosnącą",
+                    "correct": true
+                },
+                {
+                    "answer": "liniowy opisany funkcją malejącą",
+                    "correct": false
+                },
+                {
+                    "answer": "przyśpieszony",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 85
+        },
+        {
+            "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t)=1.2sin(4pi+3) [m]. Amplituda tych drgań wynosi _______ [m], częstość tych drgań to _______ [rad/s], zaś częstotliwość to ______ [Hz]. Faza początkowa wynosi _____.",
+            "answers": [
+                {
+                    "answer": "1.2, 4pi, 2, 3",
+                    "correct": true
+                },
+                {
+                    "answer": "2, 1.2, 2pi, 3",
+                    "correct": false
+                },
+                {
+                    "answer": "1.2, 3, 4pi, 2",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 86
+        },
+        {
+            "question": "Niewielka kulka przymocowana do długiej nici została za pierwszym razem podniesiona do punktu zawieszenia, a za drugim razem odchylona o niewielki kąt od położenia równowagi, tak jak wahadło. Jeżeli t1 i t2 oznaczają czasy powrotu puszczonej swobodnie kulki do położenia równowagi odpowiednio za pierwszym i drugim razem (opory ruchu pomijamy), to (jedna odp prawidłowa)",
+            "answers": [
+                {
+                    "answer": "2t1=t2",
+                    "correct": false
+                },
+                {
+                    "answer": "t1=2t2",
+                    "correct": false
+                },
+                {
+                    "answer": "t1=t2",
+                    "correct": false
+                },
+                {
+                    "answer": "t1>t2",
+                    "correct": false
+                },
+                {
+                    "answer": "t1<t2",
+                    "correct": true
+                }
+            ],
+            "multiple": true,
+            "id": 87
+        },
+        {
+            "question": "Składamy dwa ruchy harmoniczne o jednakowych częstościach i amplitudach, odbywające się w kierunkach prostopadłych do siebie. Oba ruchy mają zgodną fazę. W wyniku złączenia takich drgań otrzymujemy ruch",
+            "answers": [
+                {
+                    "answer": "liniowy",
+                    "correct": true
+                },
+                {
+                    "answer": "nieliniowy",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 88
+        },
+        {
+            "question": "Wskaż zdania prawdziwe.",
+            "answers": [
+                {
+                    "answer": "Energia całkowita w ruchu drgającym może być równa maksymalnej energii kinetycznej.",
+                    "correct": true
+                },
+                {
+                    "answer": "Energia całkowita w ruchu drgającym jest sumą energii kinetycznej i potencjalnej.",
+                    "correct": true
+                },
+                {
+                    "answer": "Energia całkowita w ruchu drgającym jest zawsze równa połowie maksymalnej energii kinetycznej.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 89
+        },
+        {
+            "question": "Wskaż zdania prawdziwe. Wahadło matematyczne to",
+            "answers": [
+                {
+                    "answer": "sferyczny obiekt wahający się na nierozciągliwej nici.",
+                    "correct": false
+                },
+                {
+                    "answer": "dowolne cialo zawieszone na swobodnej nici.",
+                    "correct": false
+                },
+                {
+                    "answer": "punkt materialny zawieszony na nierozciągliwej nici.",
+                    "correct": true
+                },
+                {
+                    "answer": "obiekt fizyczny na nici podlegającej prawu Hooka.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 90
+        },
+        {
+            "question": "Wskaż zdania prawdziwe. Ruch harmoniczny powoduje",
+            "answers": [
+                {
+                    "answer": "siła odwrotnie proporcjonalna do wychylenia.",
+                    "correct": false
+                },
+                {
+                    "answer": "siła wprost proporcjonalna do wychylenia i o zwrocie do niego przeciwnym.",
+                    "correct": true
+                },
+                {
+                    "answer": "siła wprost proporcjonalna do wychylenia i o zwrocie z nim zgodnym.",
+                    "correct": false
+                },
+                {
+                    "answer": "siłą stała co do wartości lecz zmienna co do kierunku.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 91
+        },
+        {
+            "question": "Wskaż zdania prawdziwe. Rezonans mechaniczny zachodzi, gdy",
+            "answers": [
+                {
+                    "answer": "ciało pobudzane jest do drgań w skutek przekazywania mu drgań o okresie równym okresowi drgań własnych tego ciała.",
+                    "correct": true
+                },
+                {
+                    "answer": "dwa ciała drgające są sprzężone ze sobą za pomocą więzów.",
+                    "correct": false
+                },
+                {
+                    "answer": "ciało drgające przekazuje swoją energię innemu ciału drgającemu.",
+                    "correct": false
+                },
+                {
+                    "answer": "okres drgań własnych ciała pobudzongo do drgań jest całkowitą wielokrotnością okresu drgań jemu przekazywanych.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 92
+        },
+        {
+            "question": "Wskaż zdania prawdziwe. Drgania wymuszone",
+            "answers": [
+                {
+                    "answer": "odbywają się z częstością własną.",
+                    "correct": false
+                },
+                {
+                    "answer": "odbywają się z częstością siły zewnętrznej.",
+                    "correct": true
+                },
+                {
+                    "answer": "odbywają się bez udziału siły zewnętrznej.",
+                    "correct": false
+                }
+            ],
+            "multiple": true,
+            "id": 93
+        }
+    ]
+}
